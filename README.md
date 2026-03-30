@@ -42,7 +42,8 @@ Actualmente desarrollo mi **Máster en Business Analytics & IA** en España, int
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=gcp,aws,azure,dynamodb,git,github" />
 </a>
-  <img src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" width="40" height="40" alt="Databricks" />
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="45" height="48" alt="Google BigQuery Icon">
+  <img src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" width="40" height="48" alt="Databricks" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" width="40" height="40" alt="Snowflake" />
   
 </p>
@@ -55,7 +56,7 @@ Actualmente desarrollo mi **Máster en Business Analytics & IA** en España, int
 <p align="left">
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="45" alt="Power BI" />
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="45" alt="Tableau" />
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="45" height="45" alt="Google BigQuery Icon">
+  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="40" height="45" alt="Tableau" />
   
 </p>
 
