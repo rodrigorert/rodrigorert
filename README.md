@@ -4,7 +4,7 @@
 ### **Industrial Engineer | Business Analytics & IA**
 #### "Diseñando arquitecturas de datos integrales y dashboards de alto impacto para la optimización de procesos mediante Machine Learning."
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoreyes-rert)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/rodrigoreyes-rert)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoreyes.rert@gmail.com)
 
 <img src="rodrigorert.png" width="100%">
